@@ -1,4 +1,4 @@
-# Session X — Course Y
+# Session 1 — Big Data and Business Intelligence
 
 This repository contains the materials for **Session X** of *Course Y*.  
 - Slides: see [`slides/`](./slides/) folder  
@@ -6,6 +6,25 @@ This repository contains the materials for **Session X** of *Course Y*.
 ---
 
 ## 📑 Session Outline
+### Introduction to Big Data & Business Intelligence
+---
+
+### Learning Objectives
+By the end of this session, you will be able to:
+- Explain what *data*, *Big Data*, and *Business Intelligence (BI)* mean.  
+- Distinguish between structured, semi-structured, and unstructured data.  
+- Describe the data lifecycle and understand where data warehouses and lakes fit in.  
+- Understand the role of databases (SQL vs NoSQL).  
+- Recognize how BI transforms data into decisions using KPIs and dashboards.  
+- Set up your own GitHub workspace for this course.
+
+---
+
+### Key Takeaways
+- Data is the foundation of modern decision-making.  
+- BI bridges the gap between raw data and actionable insight.  
+- Understanding the data lifecycle is key before jumping into analysis.  
+- Collaboration and version control with GitHub are essential professional skills.
 
 
 ---

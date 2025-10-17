@@ -1,3 +1,7 @@
+# ignore data files and pptx format of slides
+data/
+slides/*.pptx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
